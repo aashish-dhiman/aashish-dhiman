@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aashish Dhiman
 - 👀 I’m a DSA and Web Development enthusiast.
 - 🌱 I’m currently learning Javascript.
-- 📫 You can reach me through my social peofiles.
+- 📫 You can reach me through my social profiles.
 
 <!---
 aashish-dhiman/aashish-dhiman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
