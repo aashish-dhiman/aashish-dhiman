@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Aashish Dhiman.<br>👀 I’m a DSA and Web Development enthusiast.<br>🌱 I’m currently learning Javascript.<br>👨‍💻 I'm currently working on Frontend Projects.<br>📚 Ask me about C, C++, Data Structure and Algorithms, HTML, CSS, Bootstrap.<br>📫 You can reach me through my social profiles.
+👋 Hi, I’m Aashish Dhiman.<br>👀 I’m a DSA and Web Development enthusiast.<br>🌱 I’m currently learning Javascript.<br>👨‍💻 I'm currently working on Javascript Projects.<br>📚 Ask me about C, C++, Data Structure and Algorithms, HTML, CSS, Bootstrap.<br>📫 You can reach me through my social profiles.
 
 
 # 📊 GitHub Stats:
