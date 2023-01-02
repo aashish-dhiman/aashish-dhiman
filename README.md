@@ -1,11 +1,3 @@
-<script src="https://kit.fontawesome.com/550eff11f8.js" crossorigin="anonymous"></script>
-
-<a href="https://linkedin.com/in/aashish-dhiman">
-<i class="fa-brands fa-linkedin" align="left" alt="Aashish Dhiman LinkedIn" width="22px"></i>
-</a>
-
-</br>
-
 <div>
 
   <h2>⚡️ A Few Quick Facts</h2>
