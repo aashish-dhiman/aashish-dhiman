@@ -6,7 +6,7 @@
     <li>👀 I’m a DSA and Web Development enthusiast.</li>
     <li>👨‍💻 I’m currently learning Javascript.</li>
     <li>📝 I'm currently working on Javascript Projects.</li>
-    <li>💬 Ping me about <strong>C, C++, Data Structure and Algorithms, HTML, CSS, Javascript and Bootstrap.</strong>.</li>
+    <li>💬 Ping me about <strong>C, C++, Data Structure and Algorithms, HTML, CSS, Javascript and Bootstrap</strong>.</li>
     <li>🎉 Fun Fact: I Love Bugs.</li>
   </ul>
 </div>
