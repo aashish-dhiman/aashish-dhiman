@@ -16,5 +16,31 @@
 
 
 
+<a href="https://linkedin.com/in/aashish-dhiman">
+<i class="fa-brands fa-linkedin" align="left" alt="Aashish Dhiman LinkedIn" width="22px"></i>
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</br>
+
+<div>
+
+  <h2>⚡️ A Few Quick Facts</h2>
+  <ul>
+    <li>👋 Hi, I’m Aashish Dhiman.</li>
+    <li>👀 I’m a DSA and Web Development enthusiast.</li>
+    <li>👨‍💻 I’m currently learning Javascript.</li>
+    <li>📝 I'm currently working on Javascript Projects.</li>
+    <li>💬 Ping me about <strong>C, C++, Data Structure and Algorithms, HTML, CSS, Javascript and Bootstrap.</strong>.</li>
+    <li>🎉 Fun Fact: I Love Bugs.</li>
+  </ul>
+</div>
+
+</br>
+</br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aashish-dhiman&show_icons=true&theme=great-gatsby" alt="tomondre" />
+
+<!-- <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre" /> -->
+
+<!-- <li>📙 Check out my <a href="https://cdn.tomondre.com/TomasOndrejkaCV.pdf">resume</a>.</li> -->
+
