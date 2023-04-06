@@ -16,11 +16,11 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aashish-dhiman&show_icons=true&theme=vision-friendly-dark&include_all_commits=false&count_private=true" alt="aashish-dhiman" />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <a href="https://github.com/aashish-dhiman/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aashish-dhiman&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/aashish-dhiman/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aashish-dhiman&repo=convoychat" />
 </a>
   
   # 💻 Tech Stack:
