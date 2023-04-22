@@ -36,7 +36,7 @@
 <a href="https://www.codechef.com/users/aashish_dhiman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aashish-dhiman" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aashish_dhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashish_dhiman" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/decode_aashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="decode_aashish" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18506624h" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="decode_aashish" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18506624/aashish-dhiman" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="decode_aashish" height="30" width="40" /></a>
 
 </p>
 
