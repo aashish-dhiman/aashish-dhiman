@@ -4,7 +4,7 @@
   <ul>
     <li>👋 Hi, I’m Aashish Dhiman.</li>
     <li>👀 I’m a DSA and Web Development enthusiast.</li>
-    <li>👨‍💻 I’m currently learning Backend Technolgies</li>
+    <li>👨‍💻 I’m currently learning Backend Technolgies.</li>
     <li>📝 I'm currently working on Projects requiring Backend Support.</li>
 <!--     <li>💬 Ping me about <strong>C, C++, Data Structure and Algorithms, HTML, CSS, Javascript and Bootstrap</strong>.</li> -->
     <li>🎉 Fun Fact: I Love Bugs.</li>
