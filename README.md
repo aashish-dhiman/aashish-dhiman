@@ -7,16 +7,16 @@
     <li>📖 I’m currently learning Full Stack Web Development.</li>
     <li>❓ Ask me about anything related to MERN stack and related technologies.</li>
     <li>🎉 Fun Fact: I Love Bugs.</li>    
-    <li>📙 Check out my <a href="https://drive.google.com/file/d/1ysuNem6KTpMPASffFggJ7t4d_ptQtbk_/view?usp=sharing">resume</a>.</li> 
+    <li>📙 Check out my <a href="https://drive.google.com/file/d/1ysuNem6KTpMPASffFggJ7t4d_ptQtbk_/view?usp=sharing" target=”_blank”>resume</a>.</li> 
     <li>🧑‍💻 Check out my coding profiles -
       <ul>
         <li> 
-            <a href="https://auth.geeksforgeeks.org/user/decode_aashish/practice">GFG</a></li> 
+            <a href="https://auth.geeksforgeeks.org/user/decode_aashish/practice" target=”_blank”>GFG</a></li> 
         <li>
-            <a href="https://leetcode.com/aashish_dhiman/">Leetcode</a></li> 
+            <a href="https://leetcode.com/aashish_dhiman/" target=”_blank”>Leetcode</a></li> 
         </li>
         <li>
-            <a href="https://www.codechef.com/users/aashish_dhiman">Codechef</a></li> 
+            <a href="https://www.codechef.com/users/aashish_dhiman" target=”_blank”>Codechef</a></li> 
         </li>
         </li>
       </ul>
