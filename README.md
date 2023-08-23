@@ -1,8 +1,10 @@
 <div>
+  <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/aashish-dhiman/" target="_blank"> Aashish Dhiman </a></h1>
+<h3 align="right" > <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=MERN+Stack+Developer+%3A)" /> </h3>
 
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
-    <li>👋 Hi, I’m Aashish Dhiman.</li>
+<!--     <li>👋 Hi, I’m Aashish Dhiman.</li> -->
     <li>👀 I’m a DSA and Web Development enthusiast.</li>
     <li>📖 I’m currently learning Full Stack Web Development.</li>
     <li>❓ Ask me about anything related to MERN stack and related technologies.</li>
@@ -27,9 +29,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aashish-dhiman&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-dhiman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=aashish-dhiman&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashish-dhiman&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+  </tr>
+</table>
 
 ---
 # 💻 Tech Stack:
