@@ -9,7 +9,8 @@
     <li>📖 I’m currently learning Full Stack Web Development.</li>
     <li>❓ Ask me about anything related to MERN stack and related technologies.</li>
     <li>🎉 Fun Fact: I Love Bugs.</li>    
-    <li>📙 Check out my <a href="https://drive.google.com/file/d/1A76asxIt9sUWbMcPx2hhyO5Poy73urMT/view?usp=sharing" target=”_blank”>resume</a>.</li> 
+    
+    <li>📙 Check out my <a href="https://drive.google.com/file/d/1nrwlQD-UelNBfR7pZI19BB7dKRS7Or5G/view?usp=drive_link" target=”_blank”>resume</a>.</li> 
     <li>🧑‍💻 Check out my coding profiles -
       <ul>
         <li> 
