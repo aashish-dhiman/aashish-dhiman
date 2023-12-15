@@ -9,7 +9,7 @@
     <li>📖 I’m currently learning Full Stack Web Development.</li>
     <li>❓ Ask me about anything related to MERN stack and related technologies.</li>
     <li>🎉 Fun Fact: I Love Bugs.</li>    
-    <li>📙 Check out my <a href="https://drive.google.com/file/d/1G4LRLzCd3C8mYG07dPz7ve19oJb1FMcE/view?usp=drive_link" target="_blank" rel="noreferrer">resume</a>.</li> 
+    <li>📙 Check out my <a href="https://drive.google.com/file/d/1wEDlamry-sl0mYrE4tbxitZaHy-s7jSX/view?usp=drive_link" target="_blank" rel="noreferrer">resume</a>.</li> 
     <li>📙 Check out my <a href="https://portfolio-aashish.netlify.app/" target="_blank" rel="noreferrer">portfolio</a>.</li> 
     <li>🧑‍💻 Check out my coding profiles -
       <ul>
