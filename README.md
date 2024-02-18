@@ -37,8 +37,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=aashish-dhiman&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashish-dhiman&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=aashish-dhiman&show_icons=true&theme=dark&locale=en" alt="aashish-dhiman" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashish-dhiman&show_icons=true&theme=dark&locale=en&layout=compact" alt="aashish-dhiman" /></td>
   </tr>
 </table>
 
