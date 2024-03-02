@@ -9,12 +9,13 @@
   <h2>⚡️ A Few Quick Facts <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px >  </h2> 
   <ul>
 <!--     <li>👋 Hi, I’m Aashish Dhiman.</li> -->
+    <li>🧑‍💼 Full stack Enginner Intern @ Epoch (California,USA).</li>
     <li>👀 I’m a DSA and Web Development enthusiast.</li>
     <li>📖 I’m currently learning Full Stack Web Development.</li>
     <li>❓ Ask me about anything related to MERN stack and related technologies.</li>
     <li>🎉 Fun Fact: I Love Bugs.</li>    
     <li>📙 Check out my <a href="https://drive.google.com/file/d/1wEDlamry-sl0mYrE4tbxitZaHy-s7jSX/view?usp=drive_link" target="_blank" rel="noreferrer">resume</a>.</li> 
-    <li>📙 Check out my <a href="https://portfolio-aashish.vercel.app/" target="_blank" rel="noreferrer">portfolio</a>.</li> 
+<!--     <li>📙 Check out my <a href="https://portfolio-aashish.vercel.app/" target="_blank" rel="noreferrer">portfolio</a>.</li>  -->
     <li>🧑‍💻 Check out my coding profiles -
       <ul>
         <li> 
