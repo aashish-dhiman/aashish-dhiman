@@ -24,9 +24,9 @@
         <li>
             <a href="https://leetcode.com/aashish_dhiman/" target=”_blank”>Leetcode</a></li> 
         </li>
-        <li>
+<!--         <li>
             <a href="https://www.codechef.com/users/aashish_dhiman" target=”_blank”>Codechef</a></li> 
-        </li>
+        </li> -->
         </li>
       </ul>
   </ul>
