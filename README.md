@@ -9,6 +9,7 @@
   <h2>⚡️ A Few Quick Facts <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px >  </h2> 
   <ul>
 <!--     <li>👋 Hi, I’m Aashish Dhiman.</li> -->
+    <li>🧑‍💼 Engineering @ Blitz.</li>
     <li>🧑‍💼 Ex-SDE Intern @ Go Careers.</li>
     <li>🧑‍💼 Ex-Full Stack Enginner Intern @ Epoch (California,USA).</li>
     <li>👀 I’m a DSA and Web Development enthusiast.</li>
