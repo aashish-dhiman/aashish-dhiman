@@ -10,6 +10,7 @@
   <ul>
 <!--     <li>👋 Hi, I’m Aashish Dhiman.</li> -->
     <li>🧑‍💼 Engineering @ Blitz.</li>
+    <li>🧑‍💼 Ex-Frontend Engineer @ Tribeink</li>
     <li>🧑‍💼 Ex-SDE Intern @ Go Careers.</li>
     <li>🧑‍💼 Ex-Full Stack Enginner Intern @ Epoch (California,USA).</li>
     <li>👀 I’m a DSA and Web Development enthusiast.</li>
