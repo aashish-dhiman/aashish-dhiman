@@ -15,9 +15,7 @@
     <li>🧑‍💼 Ex-Full Stack Enginner Intern @ Epoch (California,USA).</li>
     <li>👀 I’m a DSA and Web Development enthusiast.</li>
 <!--     <li>📖 I’m currently learning Full Stack Web Development.</li> -->
-    <li>❓ Ask me about anything related to MERN stack and related technologies.</li>
     <li>🎉 Fun Fact: I Love Bugs.</li>    
-    
 <!--     <li>📙 Check out my <a href="https://portfolio-aashish.vercel.app/" target="_blank" rel="noreferrer">portfolio</a>.</li>  -->
     <li>🧑‍💻 Check out my coding profiles -
       <ul>
